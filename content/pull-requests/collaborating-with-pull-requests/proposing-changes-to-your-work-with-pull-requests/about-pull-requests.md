@@ -1,8 +1,8 @@
 ---
-title: About pull requests
+<title: About pull requests
 intro: 'Pull requests let you tell others about changes you''ve pushed to a branch in a repository on {% data variables.product.product_name %}. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.'
 redirect_from:
-  - /github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+  - /github/collaborating-with-<issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
   - /articles/using-pull-requests
   - /articles/about-pull-requests
   - /github/collaborating-with-issues-and-pull-requests/about-pull-requests
@@ -74,4 +74,4 @@ The compare and pull request pages use different methods to calculate the diff f
 - "[Pull request](/articles/github-glossary/#pull-request)" in the {% data variables.product.prodname_dotcom %} glossary
 - "[About branches](/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)"
 - "[Commenting on a pull request](/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/commenting-on-a-pull-request)"
-- "[Closing a pull request](/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/closing-a-pull-request)"
+- "[Closing a pull request](/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull>-request/closing-a-pull-request)">
